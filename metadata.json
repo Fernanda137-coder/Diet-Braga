@@ -1,0 +1,7 @@
+{
+  "name": "Diet Braga",
+  "description": "Plataforma completa de nutrição com análise de alimentos por IA, gestão de pacientes, prontuário, planejamento alimentar e acompanhamento de progresso.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
